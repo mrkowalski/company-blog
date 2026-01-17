@@ -20,6 +20,11 @@
   pageRef = "about"
   weight = 20
 
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
+
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
