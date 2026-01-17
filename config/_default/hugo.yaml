@@ -60,10 +60,10 @@ languages:
       author:
         name: Marcin Kowalski
         email: marcin@mkcg.pl
-        image: img/marcin_kowalski.jpg
+        image: img/marcin_kowalski_square.png
         imageQuality: 96
-        headline: Strategic AI Consultant 🗲 Former CTO
-        bio: Strategic AI Consultant 🗲 Former CTO
+        headline: Strategic AI Consultant 🗲 CTO
+        bio: Strategic AI Consultant 🗲 CTO
         links:
           - email: mailto:marcin@mkcg.pl
           - github: https://github.com/mrkowalski
