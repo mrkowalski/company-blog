@@ -33,7 +33,7 @@ homepage:
   cardViewScreenWidth: false
   layoutBackgroundBlur: false
   disableHeroImageFilter: false
-  homepageImage: "img/marcin_kowalski_square.png"
+  homepageImage: "img/marcin_kowalski_square.jpg"
 article:
   showDate: true
   showViews: false
