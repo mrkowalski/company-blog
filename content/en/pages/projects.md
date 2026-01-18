@@ -1,6 +1,7 @@
 ---
 date: '2026-01-17T02:14:45+01:00'
 title: 'Projects'
+slug: 'projects'
 tags:
   - projects
 ---
