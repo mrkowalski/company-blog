@@ -1,5 +1,5 @@
 ---
-date: '2026-01-14T01:08:08+01:00'
+date: '2026-01-07T01:08:08+01:00'
 title: 'How AI helps to (finally) balance the IT industry'
 tags:
   - ai

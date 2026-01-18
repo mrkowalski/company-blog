@@ -1,5 +1,5 @@
 ---
-date: '2026-01-14T23:45:26+01:00'
+date: '2026-01-01T23:45:26+01:00'
 draft: false
 title: 'Is AI more tech? Or less?'
 tags:

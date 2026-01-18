@@ -1,36 +1,31 @@
 ---
 date: '2026-01-17T21:34:20+01:00'
-title: 'Vocal Fibre'
+title: 'VocalFibre'
 tags:
   - ai
   - voicebots
+  - projects
 ---
 
-VocalFibre: Nowa jakość w budowaniu modułowych voicebotów
+### Overview
 
-VocalFibre to autorska technologia stworzona do błyskawicznego wdrażania skutecznych i niezawodnych głosowych agentów AI (voicebotów).
+VocalFibre is a customer research and interview platform.
 
-Jej główną przewagą jest **modułowość**. Zamiast budować boty od zera,  VocalFibre oferuje rozbudowaną bibliotekę gotowych prefabrykatów. Każdy moduł pełni konkretną, wyspecjalizowaną funkcję, na przykład:
+Its outstanding feature is ability to collect customer CRM data using open-ended questions. Dialogues are designed in a way that enable attribute extraction without explicitly asking for it. Users do not need to know all answers and do not need to know what they precisely need. Dialogue engine extracts information in real time and shifts conversation accordingly as it goes.
 
-- Pobranie danych od rozmówcy (telefon, zgody RODO).
-- Wyszukanie wolnego terminu w kalendarzu.
-- Potwierdzenie rezerwacji.
+### Key features
 
-Moduły VocalFibre łączy się w dowolne scenariusze konwersacyjne – podobnie jak splata się włókna w wytrzymałą strukturę. Dzięki temu proces jest szybki, a ryzyko błędów zminimalizowane.
+- Structured, ready-to-use conversation templates for industry verticals. Can be deployed in days.
+- Designed to identify customer needs and preferences with natural, open conversation.
+- Extracts meaningful data from vague and chaotic responses.
+- Voice and text channels, including telephony support.
+- Polish language support with correct inflection and cultural context
+- EU data residency.
+- Independent platform with full DevOps support.
 
-#### Dlaczego warto?
+### Key technologies
 
-- **Szybkość**: Zaawansowany voicebot dla Twojej firmy może być gotowy w dosłownie kilka godzin, a nie tygodni.
-- **Jakość**: VocalFibre opieramy na infrastrukturze [LiveKit](https://livekit.io/), co gwarantuje jakość dźwięku i brak opóźnień.
-- **Bezpieczeństwo**: Wszystkie rozmowy i dane są przetwarzane wyłącznie na terenie Unii Europejskiej.
+VocaFibre is built on industry standards:
 
-Brzmi interesująco? [Porozmawiajmy o automatyzacji w Twojej firmie](/pages/contact-form).
-
----
-
-Nazwa *"Vocal Fibre"* zainspirowana jest włókienniczym dziedzictwem Łodzi – miasta, w którym została stworzona.
-
-**VocalFibre | [voʊ-kəl faɪ-bər]**
-
-1. Fibre (rzeczownik): **Włókno**. Podstawowy element strukturalny, z którego powstaje trwała tkanina.
-2. Moral fibre (*metafora*): **Siła charakteru**. Zdolność do niezawodnego działania.
+- [LiveKit](https://livekit.io/) for low latency voice communication, WebRTC and telephony integration.
+- [LLamaIndex](llamaindex.ai/) for complex document processing and agentic workflows.
