@@ -68,3 +68,25 @@ languages:
           - email: mailto:marcin@mkcg.pl
           - github: https://github.com/mrkowalski
           - linkedin: https://linkedin.com/in/marcinkowalski
+  pl:
+    languageCode: pl
+    languageName: Polski
+    contentDir: "content/pl"
+    weight: 2
+    title: MKCG.PL
+    params:
+      displayName: PL
+      isoCode: pl
+      rtl: false
+      dateFormat: 2 January 2006
+      author:
+        name: Marcin Kowalski
+        email: marcin@mkcg.pl
+        image: img/marcin_kowalski_square.jpg
+        imageQuality: 96
+        headline: Strategic AI Consultant // CTO
+        bio: Strategic AI Consultant // CTO
+        links:
+          - email: mailto:marcin@mkcg.pl
+          - github: https://github.com/mrkowalski
+          - linkedin: https://linkedin.com/in/marcinkowalski
