@@ -2,6 +2,7 @@
 title: "Polityka prywatności"
 slug: "privacy-policy"
 date: 2025-09-27T00:24:47+02:00
+showAuthor: false
 ---
 
 _Aktualizacja: 2025-09-26_
