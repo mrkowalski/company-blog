@@ -10,6 +10,13 @@ Today, I apply this experience to help clients capture the full power of Agentic
 
 I am based in Poland, EU.
 
+## Mentoring
+
+I am an experienced mentor. My mentoring profiles for organizations I work with:
+
+- [Technical University of Łódź](https://mentoring.p.lodz.pl/marcin-kowalski)
+- [Think! Foundation](https://rozwijamy.edu.pl/mentorki-i-mentorzy/#:~:text=Marcin%20Kowalski)
+
 ## Contact
 
 Reach out to me at: {{< cloakemail address="marcin@mkcg.pl" query="Message from mkcg.pl" protocol="mailto" >}}
