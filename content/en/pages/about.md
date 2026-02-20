@@ -12,7 +12,9 @@ I am based in Poland, EU.
 
 ## Mentoring
 
-I am an experienced mentor. My mentoring profiles for organizations I work with:
+I am an experienced mentor, with strong emphasis on strategy, accountability and measurable outcomes.
+
+My mentoring profiles for organizations I work with:
 
 - [Technical University of Łódź](https://mentoring.p.lodz.pl/marcin-kowalski)
 - [Think! Foundation](https://rozwijamy.edu.pl/mentorki-i-mentorzy/#:~:text=Marcin%20Kowalski)
