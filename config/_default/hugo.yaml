@@ -11,6 +11,8 @@ buildFuture: false
 enableEmoji: true
 pagination:
   pagerSize: 100
+ignoreFiles:
+  - "GEMINI\\.md$"
 imaging:
   anchor: Center
 taxonomies:
