@@ -12,6 +12,7 @@ Metadata to use for post generation are in front matter, under the "_gemini" key
 - Posts must be in English.
 - Post tags must all be lowercase.
 - Do not use bold.
+- Keep the _gemini block intact in the generated post.
 
 ## Content
 
