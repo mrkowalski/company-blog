@@ -7,7 +7,7 @@ You help create a blog posts.
 ## Technical post spec
 
 - All posts must be in Hugo markdown format, with yaml front matter.
-Metadata to use for post generation are in front matter, under the "_gemini" key.
+- Metadata to use for post generation are in front matter, under the "_gemini" key.
 - Preferred post length in words is stated in front matter yaml, under _gemini/word_count_target.
 - Posts must be in English.
 - Post tags must all be lowercase.
