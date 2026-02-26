@@ -1,0 +1,10 @@
+[project]
+name = "pl-translator"
+version = "0.1.0"
+description = "Translate posts to polish"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "llm>=0.28",
+    "llm-gemini>=0.29",
+]
