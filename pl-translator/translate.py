@@ -32,7 +32,7 @@ async def bielik_polish(src: str) -> str:
     fm, body = split_front_matter(src)
     start = time.time()
     response = await asyncio.to_thread(
-        model.prompt, system=system_prompt, prompt=body, stream=False
+        model.prompt, prompt=system_prompt + body, stream=False
     )
     translation = response.text()
     end = time.time()
@@ -46,7 +46,7 @@ async def bielik_translate(src: str) -> str:
     fm, body = split_front_matter(src)
     start = time.time()
     response = await asyncio.to_thread(
-        model.prompt, system=system_prompt, prompt=body, stream=False
+        model.prompt, prompt=system_prompt + body, stream=False
     )
     translation = response.text()
     end = time.time()
