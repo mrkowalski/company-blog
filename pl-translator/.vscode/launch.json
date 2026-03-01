@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Translate jtbd post.",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "translate.py",
+            "console": "integratedTerminal",
+            "args": ["both", "../content/en/posts/how-ai-changes-our-jobs-to-be-done.md"]
+        }
+    ]
+}
