@@ -26,3 +26,5 @@ You help translate blog posts from English to Polish.
 ### Prohibited words and collocations in output translation.
 
 - hype
+- fundamentalnie
+- kuratela
