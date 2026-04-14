@@ -62,13 +62,16 @@ def bielik_polish(src: str) -> str:
 async def bielik_translate(src: str) -> str:
     with open("prompt_bielik_translate.md") as fp:
         system_prompt = fp.read()
-    model = llm.get_model("bielik")
     fm, body = split_front_matter(src)
     start = time.time()
-    response = await asyncio.to_thread(
-        model.prompt, prompt=system_prompt + body, stream=False
+    response = cf_client.chat.completions.create(
+        model="Bielik-11B-v3.0-Instruct",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": body},
+        ],
     )
-    translation = response.text()
+    translation = response.choices[0].message.content
     end = time.time()
     print(f"Bielik translation took {end - start:.2f} seconds.")
     return fm + translation

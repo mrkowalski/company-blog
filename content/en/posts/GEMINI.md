@@ -20,6 +20,8 @@ You help create blog posts.
 - Posts are part of https://mkcg.pl blog, which is a personal blog of a CTO and technology consultant. The blog serves a purpose of positioning the blog owner as an AI and technology expert.
 - Ensure theme from  _gemini/key_theme is followed through.
 - Use insights from _gemini/key_insights to build the narrative.
+- Use _gemini/sources to build the narrative and gather insights.
+- Use other blog posts to build the narrative.
 
 ## Writing style
 
@@ -36,7 +38,8 @@ You help create blog posts.
   - turbocharge
   - profound
 - Ensure insights and sources are being referred to in footnotes, using caret-and-id markdown syntax.
-- Quote resources, if it provides tangible insight and value.
+- Use inline links if insights come from other posts of the blog.
+- Quote sources, if it provides tangible insight and value.
 - Refer to all markdown content in current folder to align style between existing content and a newly created one.
 
 ## Gemini Added Memories
