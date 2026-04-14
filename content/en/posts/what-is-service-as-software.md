@@ -1,7 +1,7 @@
 ---
 date: '2026-04-10T16:33:00+02:00'
 draft: false
-title: 'Service as software - The software is the work'
+title: 'Service as software: The software is the work'
 slug: 'what-is-service-as-software'
 translationKey: 'what-is-service-as-software'
 tags:

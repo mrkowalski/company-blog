@@ -1,6 +1,6 @@
 ---
 date: '2026-01-17T15:23:36+01:00'
-title: 'In the post AI world, your employees need mental models'
+title: 'In the post AI-world, your employees need mental models'
 tags:
   - ai
   - recruitment

@@ -1,6 +1,6 @@
 ---
 date: '2026-02-22'
-title: "How AI changes our jobs to be done"
+title: "How AI changes our \"jobs to be done\""
 translationKey: "ai-changes-jtbd"
 slug: "ai-changes-jtbd"
 tags:
